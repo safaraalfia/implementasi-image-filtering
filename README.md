@@ -1,4 +1,4 @@
-# implementasi-image-filtering
+# Implementasi-Image-Filtering
 Alfia Rohmah Safara (23422039)
 
 ```python
